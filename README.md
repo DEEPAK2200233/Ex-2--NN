@@ -1,6 +1,8 @@
 <H3>NAME : Deepak Raj S</H3>
 <H3>REGISTER NO : 212222240023</H3>
-# Experiment No.2-Implementation of Perceptron for Binary Classification
+<H3>EX. NO.2</H3>
+<H3>DATE</H3>
+<H1 ALIGN =CENTER>Implementation of Perceptron for Binary Classification</H1>
 
 # AIM:
 To implement a perceptron for classification using Python<BR>
