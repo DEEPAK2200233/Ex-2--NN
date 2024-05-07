@@ -1,3 +1,5 @@
+<H3>NAME : Deepak Raj S</H3>
+<H3>REGISTER NO : 212222240023</H3>
 # Experiment No.2-Implementation of Perceptron for Binary Classification
 
 # AIM:
